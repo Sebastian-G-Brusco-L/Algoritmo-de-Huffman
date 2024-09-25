@@ -1,9 +1,9 @@
 #include "BitReader.hpp"
 #include "BitWriter.hpp"
-#include "C:\Users\Admin\Desktop\FACULTAD\Algoritmos\AlgoritmosAFondo_EMPTY_v2.7.18\src\biblioteca\tads\parte2\Array.hpp"
-#include "C:\Users\Admin\Desktop\FACULTAD\Algoritmos\AlgoritmosAFondo_EMPTY_v2.7.18\src\biblioteca\funciones\files.hpp"
+#include "C:Tadarray\Array.hpp"
+#include "C:TADfiles\funciones\files.hpp"
 #include "HuffmanSetup.hpp"
-#include "C:\Users\Admin\Desktop\FACULTAD\Algoritmos\AlgoritmosAFondo_EMPTY_v2.7.18\src\biblioteca\tads\parte2\List.hpp"
+#include "C:TADlist\List.hpp"
 
 //para mostrar arbol y lista 
 #include <locale>
